@@ -1,4 +1,4 @@
-package SideMenuTests;
+package MainTests;
 
 import BaseSetting.BaseData;
 import org.testng.annotations.Test;
